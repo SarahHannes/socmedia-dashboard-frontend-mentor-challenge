@@ -1,21 +1,21 @@
 [
     [
         {
-            "icon": "./images/icon-facebook.svg",
+            "icon": "../images/icon-facebook.svg",
             "account": "facebook",
             "followers": 1987,
             "today": "+12",
             "handle": "@nathanf"
         },
         {
-            "icon": "./images/icon-twitter.svg",
+            "icon": "/images/icon-twitter.svg",
             "account": "twitter",
             "followers": 1044,
             "today": "+99",
             "handle": "@nathanf"
         },
         {
-            "icon": "./images/icon-instagram.svg",
+            "icon": "images/icon-instagram.svg",
             "account": "instagram",
             "followers": 11000,
             "today": "+1099",
