@@ -1,0 +1,97 @@
+[
+    [
+        {
+            "icon": "./images/icon-facebook.svg",
+            "account": "facebook",
+            "followers": 1987,
+            "today": "+12",
+            "handle": "@nathanf"
+        },
+        {
+            "icon": "./images/icon-twitter.svg",
+            "account": "twitter",
+            "followers": 1044,
+            "today": "+99",
+            "handle": "@nathanf"
+        },
+        {
+            "icon": "./images/icon-instagram.svg",
+            "account": "instagram",
+            "followers": 11000,
+            "today": "+1099",
+            "handle": "@realnathanf"
+        },
+        {
+            "icon": "./images/icon-youtube.svg",
+            "account": "youtube",
+            "followers": 8239,
+            "today": "-144",
+            "handle": "Nathan F."
+        }
+    ],
+    
+    [
+        {
+            "icon": "./images/icon-facebook.svg",
+            "account": "facebook",
+            "item": "Page Views",
+            "value": 87,
+            "percentage": "+3%"
+        },
+        {
+            "icon": "./images/icon-facebook.svg",
+            "account": "facebook",
+            "item": "Likes",
+            "value": 52,
+            "percentage": "-2%"
+        },
+
+
+        {
+            "icon": "./images/icon-instagram.svg",
+            "account": "instagram",
+            "item": "Likes",
+            "value": 5462,
+            "percentage": "+2257%"
+        },
+        {
+            "icon": "./images/icon-instagram.svg",
+            "account": "instagram",
+            "item": "Profile Views",
+            "value": 52000,
+            "percentage": "+1375%"
+        },
+
+
+        {
+            "icon": "./images/icon-twitter.svg",
+            "account": "twitter",
+            "item": "Retweets",
+            "value": 117,
+            "percentage": "+303%"
+        },
+        {
+            "icon": "./images/icon-twitter.svg",
+            "account": "twitter",
+            "item": "Likes",
+            "value": 507,
+            "percentage": "+553%"
+        },
+
+
+        {
+            "icon": "./images/icon-youtube.svg",
+            "account": "youtube",
+            "item": "Likes",
+            "value": 107,
+            "percentage": "-19%"
+        },
+        {
+            "icon": "./images/icon-youtube.svg",
+            "account": "youtube",
+            "item": "Total Views",
+            "value": 1407,
+            "percentage": "-12%"
+        }
+    ]
+]
