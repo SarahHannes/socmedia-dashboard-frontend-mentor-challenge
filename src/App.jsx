@@ -1,8 +1,8 @@
 import { useState } from "react";
 
 import data from "/data.json";
-import upIcon from "/images/icon-up.svg";
-import downIcon from "/images/icon-down.svg";
+import upIcon from "./icon-up.svg";
+import downIcon from "./icon-down.svg";
 
 import Account from "./components/Account";
 import Toggle from "./components/Toggle";
